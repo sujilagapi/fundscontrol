@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "fundscontrol",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7d554e8f-528a-4296-ac1b-8aaa07e2ce7a",
+      "database_name": "d1-funds-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
